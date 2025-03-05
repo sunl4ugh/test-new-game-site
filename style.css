@@ -3,7 +3,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    color: #2E8B57;
+    color: #451f77;
     background-color: #FFFFFF;
 }
 
@@ -11,7 +11,7 @@ header {
     background-color: #F8F8FF;
     padding: 20px;
     text-align: center;
-    border-bottom: 4px solid #B0C4DE;
+    border-bottom: 4px solid #ffffff;
 }
 
 section {
@@ -22,7 +22,7 @@ section {
 }
 
 h1, h2, h3 {
-    color: #4682B4;
+    color: #9125b3;
     text-transform: uppercase;
     letter-spacing: 2px;
 }
