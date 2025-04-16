@@ -1,9 +1,9 @@
 {
-  "name": "Rabid Touch",
-  "short_name": "Rabid Touch",
-  "id": "com.example.gamename",
+  "name": "Drive The CAR",
+  "short_name": "Drive The CAR",
+  "id": "xxx.xxx.drivethecar",
   "description": "",
-  "orientation": "portrait",
+  "orientation": "any",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "black",
